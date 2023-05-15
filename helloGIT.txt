@@ -1,2 +1,3 @@
 First line.
 Second line.
+“I’m adding some new text”.
